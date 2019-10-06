@@ -1,2 +1,6 @@
 # filoy
-flproject
+<?php
+
+namespace filoy;
+
+?>
